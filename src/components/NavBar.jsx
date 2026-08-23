@@ -99,7 +99,7 @@ function NavBar({ dark, setDark }) {
                     </a>
 
                     <a
-                        href="https://github.com/shivam07cyberx/Shivam"
+                        href="https://github.com/shivampal108"
                         target="_blank"
                         rel="noopener noreferrer"
                         onClick={closeMenu}
